@@ -1,4 +1,4 @@
-## Codesoft Internship Tasks
+## Codsoft Internship Tasks
 
 1. Tic-Tac-Toe AI – Implemented an unbeatable Tic-Tac-Toe agent using the Minimax algorithm with Alpha-Beta pruning.  
 2. Image Captioning – Built an encoder-decoder model (ResNet-50 + LSTM) to generate natural language captions for images.  
